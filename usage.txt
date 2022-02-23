@@ -1,0 +1,16 @@
+USER MANUAL:
+
+Command:
+'python3 main.py -option length'
+
+'option' to choose for the Sorting Algorithm
+b for Bubble Sort 
+i for Insertion Sort 
+m for Merge Sort 
+q for Quick Sort 
+s for Selection Sort 
+
+'length' is the length of the array on which the algortihm will run
+
+NB: Assume that all the numbers will be positive integers
+and pick in the the range of 1-100.
