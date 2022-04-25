@@ -1,4 +1,4 @@
-#### Sorting Algorithm Visualization Using Python
+#### Bubble & Quick Sort Algorithms visualized using Python
 
 This python program is to simulate and visualize two common sorting algorithms: **Bubble Sort** and **Quick Sort**.
 
